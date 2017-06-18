@@ -36,7 +36,7 @@ We will conclude by everybody committing to their personal project.
 
 ## Handout
 
-There will be a handout with all the links to further information.
+There will be a handout with all the links to further information. This will be sent by email after the workshop.
 
 ## Reading list
 
