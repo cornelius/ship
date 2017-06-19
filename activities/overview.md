@@ -18,7 +18,7 @@ Presentation
 
 ## Material
 
-* Slides
+* [Slides](../material/overview.pdf)
 
 ## Script
 
