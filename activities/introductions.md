@@ -1,14 +1,15 @@
-# Introductions and expectations
+# Introductions and bring a word
 
 ## Purpose
 
 * Introduce all participants to each other
-* Get picture of expectations of participants
+* Let everybody contribute something
+* Get people to move
 
 ## Format
 
-* Participants write expectations on sticky notes
-* Each participant states his name and team, puts the sticky note on a wall and reads it
+* Each participant writes down one word on a sticky note, This is done in parallel in one minute
+* One participant after the other comes to the wall, states their name and team, puts the sticky note on a wall, reads the word, and says one sentence about it.
 
 ## Timebox
 
@@ -22,4 +23,10 @@
 
 ## Script
 
-Moderator explains activity, participants do it, moderator summarizes.
+We'll get some introductions done, so that everybody knows each other. In addition to that I ask everybody to bring one word. This could be how you feel, what you expect, what you would like to contribute, what you like, or something completely different. There are no rules, so you can't get it wrong.
+
+Now please everybody write down your word on a sticky note. Then everybody, one after each other will put the sticky note on the wall.
+
+One minute time to write the word.
+
+Now Please come to the wall, say your name and your team, put up your sticky note and say one sentence to explain it.
