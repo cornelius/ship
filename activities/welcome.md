@@ -4,9 +4,10 @@
 
 * Greet participants
 * Set clear ground rules for workshop:
-  * Confidentiality
-  * Openness in the group
-  * Be present
+  * Protected space
+  * Personal and project details stay in this group
+  * No judging
+  * Contribute, be generous
 
 ## Format
 
