@@ -1,4 +1,4 @@
-## Resistance
+# Resistance
 
 Introduce the concept of resistance. Fill out:
 
@@ -7,3 +7,13 @@ Introduce the concept of resistance. Fill out:
 * Why are you afraid?
 
 Feedack in pairs
+
+## Script
+
+### Presentation
+
+* Lizard brain
+* Art of War
+  * Resistance
+  * Becoming a pro
+* Fear

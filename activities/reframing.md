@@ -9,3 +9,16 @@ Fill out:
 * Minus it
 
 Feedback in small groups
+
+## Script
+
+### Presentation
+
+* Kahneman
+* Example from paper
+* Decision making
+  * Statistics about how many options are taken into account
+  * Glimpse of decision tree:
+    * What is it for? What do you want to achieve by taking the decision?
+    * List all possible options, not just yes/no
+    * Evaluate

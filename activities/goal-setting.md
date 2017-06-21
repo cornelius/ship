@@ -25,4 +25,6 @@
 
 ## Script
 
-TBD
+### Presentation
+
+* Introduce Goal Setting Canvas
