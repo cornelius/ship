@@ -1,12 +1,31 @@
 # Resistance
 
-Introduce the concept of resistance. Fill out:
+## Purpose
 
-* What are you afraid of?
-* What else (the truth this time)?
-* Why are you afraid?
+* Understand resistance
+* Understand becoming a pro
+* Reflect on resistance on personal project
 
-Feedack in pairs
+## Format
+
+* Introduction of topic and instructions with presentation (10 minutes)
+* Fill out: (10 minutes)
+    * What are you afraid of?
+    * What else (the truth this time)?
+    * Why are you afraid?
+    * What does failure look like?
+* Feedack in pairs (10 minutes)
+* Individual Reflection (5 minutes)
+
+## Material
+
+* Slides
+* ShipIt journal
+* Pen for filling out the journal
+
+## Timebox
+
+* 35 minutes
 
 ## Script
 
@@ -16,4 +35,6 @@ Feedack in pairs
 * Art of War
   * Resistance
   * Becoming a pro
-* Fear
+* Do the hard part first
+* Dance with Fear
+* Instructions for activity

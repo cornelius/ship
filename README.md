@@ -29,10 +29,10 @@ We will conclude by everybody committing to their personal project.
 * 10:30 - 11:00: [Overview](activities/overview.md)
 * 11:00 - 12:00: [Goal setting](activities/goal-setting.md)
 * 12:00 - 13:00: *Lunch break*
-* 13:00 - 13:45: [Resistance](activities/resistance.md)
-* 13:45 - 14:40: [Reframing](activities/reframing.md)
-* 14:40 - 14:55: [Commitment](activities/commitment.md)
-* 14:55 - 15:00: [Feedback](activities/feedback.md)
+* 13:00 - 13:35: [Resistance](activities/resistance.md)
+* 13:35 - 14:25: [Reframing](activities/reframing.md)
+* 14:30 - 14:50: [Commitment](activities/commitment.md)
+* 14:50 - 15:00: [Closing](activities/closing.md)
 
 ## Handout
 

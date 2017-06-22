@@ -12,7 +12,9 @@
   * What's the project?
   * When does it ship?
   * Who is responsible for shipping it?
+  * List every task and event that needs to happen, by whom, and by when
 * Each participant presents goals in small group, gets feedback
+* Individual reflection
 
 ## Timebox
 
@@ -28,3 +30,6 @@
 ### Presentation
 
 * Introduce Goal Setting Canvas
+* Explain feedback
+* Explain reflection
+* Instructions for activity
