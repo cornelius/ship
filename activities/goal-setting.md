@@ -22,6 +22,7 @@
 
 ## Material
 
+* Slides
 * One ShipIt Journal per participant
 * Pens to fill out journal
 
@@ -31,5 +32,10 @@
 
 * Introduce Goal Setting Canvas
 * Explain feedback
+  * Seth's rules of feedback
+    * No one care about your opinion
+    * Say the right thing at the right time
+    * If you have something nice to say, please say it
+    * Give me feedback, no matter what
 * Explain reflection
 * Instructions for activity
