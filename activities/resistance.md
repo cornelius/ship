@@ -19,7 +19,7 @@
 
 ## Material
 
-* Slides
+* [Slides]((../material/resistance.pdf))
 * ShipIt journal
 * Pen for filling out the journal
 

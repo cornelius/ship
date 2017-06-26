@@ -18,7 +18,7 @@
 
 ## Material
 
-* Slides
+* [Slides]((../material/reframing.pdf))
 * ShipIt Journal
 * Pen for filling out the ShipIt journal
 

@@ -22,7 +22,7 @@
 
 ## Material
 
-* Slides
+* [Slides]((../material/goal-setting.pdf))
 * One ShipIt Journal per participant
 * Pens to fill out journal
 
